@@ -4,7 +4,7 @@
        width="600">
 </p>
 
-# WRRP — Wave-Return Resonance Paradigm
+<h1 align="center">WRRP — Wave-Return Resonance Paradigm</h1>
 
 **Wave-Return Resonance Paradigm (WRRP)**  
 A Conceptual Framework for Quantum Programming via Living Superposition Chains, Active Space, Wave-Packets, and Frequency Feedback Loops
