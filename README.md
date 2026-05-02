@@ -6,8 +6,11 @@
 
 <h1 align="center">WRRP — Wave-Return Resonance Paradigm</h1>
 
-![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/Version-2.5-blue.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License">
+  <img src="https://img.shields.io/badge/Version-2.5-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/arXiv-pending-b31b1b.svg" alt="arXiv">
+</p>
 
 **Wave-Return Resonance Paradigm (WRRP)**  
 A Conceptual Framework for Quantum Programming via Living Superposition Chains, Active Space, Wave-Packets, and Frequency Feedback Loops
