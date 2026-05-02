@@ -1,4 +1,4 @@
-![WRRP Header](docs/paper/figures/wrrp_header.jpg)
+![WRRP Header]([docs/paper/figures/wrrp_header.jpg](https://github.com/user-attachments/assets/9435f795-5526-4213-9625-13a92c69eede))
 
 # WRRP — Wave-Return Resonance Paradigm
 
