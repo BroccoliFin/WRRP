@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+
+title: "Wave-Return Resonance Paradigm (WRRP): A Conceptual Framework for Quantum Programming via Living Superposition Chains, Active Space, Wave-Packets, and Frequency Feedback Loops"
+
+authors:
+  - family-names: "Sadovoy"
+    given-names: "Michael A."
+    affiliation: "Independent Researcher"
+    email: "your.email@example.com"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # раскомментируйте, если есть
+
+abstract: |
+  The Wave-Return Resonance Paradigm (WRRP) is a high-level conceptual model 
+  for quantum computation, where a program is viewed as a living wave process. 
+  A superposition wave leaves its source, explores the solution space, and returns, 
+  modifying the source itself through resonance and a frequency feedback loop.
+
+keywords:
+  - quantum programming
+  - wave-return paradigm
+  - resonance computing
+  - quantum memory
+  - CPTP maps
+  - open quantum systems
+  - conceptual framework
+
+version: "2.5"
+date-released: "2026-05-01"
+
+license: "CC-BY-4.0"
+
+url: "https://github.com/BroccoliFin/WRRP"
+repository-code: "https://github.com/BroccoliFin/WRRP"
+
+# После публикации на arXiv — раскомментируйте и заполните:
+# doi: "10.48550/arXiv.2605.xxxxx"
+# identifiers:
+#   - type: arXiv
+#     value: "arXiv:2605.xxxxx"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sadovoy"
+      given-names: "Michael A."
+  title: "Wave-Return Resonance Paradigm (WRRP): A Conceptual Framework for Quantum Programming"
+  journal: "arXiv preprint"
+  year: 2026
+  month: 5
+  url: "https://arxiv.org/abs/[pending]"

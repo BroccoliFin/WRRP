@@ -1,0 +1,18 @@
+```gitignore
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / virtualenv
+__pycache__/
+*.pyc
+venv/
+env/
