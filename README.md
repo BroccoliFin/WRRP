@@ -1,4 +1,8 @@
-![WRRP Header](https://github.com/user-attachments/assets/9435f795-5526-4213-9625-13a92c69eede)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9435f795-5526-4213-9625-13a92c69eede" 
+       alt="WRRP Header" 
+       width="600">
+</p>
 
 # WRRP — Wave-Return Resonance Paradigm
 
